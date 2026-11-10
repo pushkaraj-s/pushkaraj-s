@@ -5,8 +5,8 @@ I work close to the hardware: firmware, Linux, bootloaders, drivers and GPU soft
 
 - **NVIDIA:** System Software Intern, CUDA Driver/Runtime API and low-level GPU software
 - **AWS Annapurna Labs:** boot infrastructure; moved PXE boot to HTTP, cutting boot time from 9.5 min to 49 s
-- **Tesla:** service tooling for the Cybercab program
-- **Cummins:** board support package firmware, CAN stack and hardware bring-up for engine controllers
+- **Tesla:** Service tooling for the Cybercab program
+- **Cummins:** Board support package firmware, CAN stack and hardware bring-up for engine controllers
 
 **Skills:** C/C++, Python, Embedded C, Linux, U-Boot, RTOS, CUDA, CAN/SPI/I2C/UART, Git
 
